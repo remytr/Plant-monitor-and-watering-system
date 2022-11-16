@@ -51,3 +51,7 @@ their home.
 By lowering the barrier to entry of becoming a plant owner and taking away the stress of 
 management, the APE system allows for people to have all the benefits of plant ownership
 without any of the pressure of being a bad plant parent.
+
+![Wiring Diagram](https://github.com/remytr/Plant-monitor-and-watering-system/blob/main/wiringDiagram.png?raw=true)
+![Circuit Diagram](https://github.com/remytr/Plant-monitor-and-watering-system/blob/main/circuitDiagram.png?raw=true)
+
